@@ -1,4 +1,3 @@
-
 const fs = require('fs');
 
 // return true if assignmentA is totally inside assignment B
